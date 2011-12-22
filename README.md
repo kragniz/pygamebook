@@ -43,10 +43,11 @@ this option. The text in between is the text you give to the reader to describe
 the choice.
 
 The available options are:
-    option -- give the reader the option to do something
+
+   `option -- give the reader the option to do something
     goto -- make the reader jump to a paragraph
     enemy -- add an aggressive enemy to the paragraph. Looks like
-        *enemy enemy name [skl 99 sta 99] win [winning paragraph] lose [loosing paragraph]
+        *enemy enemy name [skl 99 sta 99] win [winning paragraph] lose [loosing paragraph]`
 
 Licence
 =======
